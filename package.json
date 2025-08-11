@@ -1,0 +1,9 @@
+{
+  "name": "zalo-user",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.1.0",
+    "zca-js": "^2.0.0-beta.25"
+  }
+}
