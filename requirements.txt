@@ -1,1 +1,4 @@
+axios
 express
+mysql2
+body-parser
